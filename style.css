@@ -1,14 +1,15 @@
 body {
-    background-color:#59fdc;
+    background-color:#1fb6f7;
 }
 
 header {
     background-color:#4ba3de;
+    padding:15px;
 }
 
 
 ul li{
-    list-style-type:none;
+    font-weight:bold;
 }
 
 p {
@@ -16,5 +17,6 @@ p {
 }
 
 footer {
-    background-color:#59fdc;
+    background-color:#4ba3de;
+    padding:15px;
 }
