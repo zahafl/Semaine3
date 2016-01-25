@@ -1,0 +1,16 @@
+body {
+    color:red;
+}
+
+header {
+    color:#f5faf9;
+}
+
+ul li{
+    list-style-type:none;
+}
+
+p {
+    padding:15px;
+}
+
