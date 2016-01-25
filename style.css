@@ -1,10 +1,11 @@
 body {
-    color:red;
+    background-color:#59fdc;
 }
 
 header {
-    color:#f5faf9;
+    background-color:#4ba3de;
 }
+
 
 ul li{
     list-style-type:none;
@@ -14,3 +15,6 @@ p {
     padding:15px;
 }
 
+footer {
+    background-color:#59fdc;
+}
